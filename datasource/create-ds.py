@@ -1,4 +1,4 @@
-# A script for creating datasources in WLS domain
+# A script for creating Data Sources in WLS domain
 #
 # Usage:
 # create-ds.py <Properties File Name>
